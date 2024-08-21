@@ -1,6 +1,4 @@
-### `README.md` for Backend
 
-```markdown
 # PingMe Social Media Platform - Backend
 
 🚀 Welcome to the backend of PingMe, a social media platform designed for seamless social interactions! This Node.js server handles authentication, user management, and post creation, with secure file storage and API routes.
